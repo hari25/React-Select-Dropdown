@@ -133,30 +133,6 @@
       "copay": 15
     },
     {
-      "number": "99213",
-      "cost": "275",
-      "id": 16
-    },
-    {
-      "cptCodeId": 1,
-      "cost": "12",
-      "id": 19
-    },
-    {
-      "number": 1,
-      "cost": "13",
-      "facilityType": "thirteen",
-      "copay": "12",
-      "id": 20
-    },
-    {
-      "id": 21,
-      "cptCodeId": 1,
-      "cost": "14",
-      "facilityType": "fourteen",
-      "copay": "13"
-    },
-    {
       "id": 22,
       "cptCodeId": 1,
       "cost": 15,
@@ -169,6 +145,62 @@
       "cost": 24,
       "facilityType": "twenty four",
       "copay": 23
+    },
+    {
+      "id": 24,
+      "cptCodeId": 1,
+      "cost": 28,
+      "facilityType": "twenty eight",
+      "copay": 27
+    },
+    {
+      "id": 25,
+      "cptCodeId": 1,
+      "cost": 28,
+      "facilityType": "twenty eight",
+      "copay": 27
+    },
+    {
+      "id": 26,
+      "cptCodeId": 2,
+      "cost": 30,
+      "facilityType": "thirty",
+      "copay": 29
+    },
+    {
+      "id": 27,
+      "cptCodeId": 3,
+      "cost": 31,
+      "facilityType": "Thirty one",
+      "copay": 30
+    },
+    {
+      "id": 28,
+      "cptCodeId": 4,
+      "cost": 32,
+      "facilityType": "Thirty two",
+      "copay": 31
+    },
+    {
+      "id": 29,
+      "cptCodeId": 5,
+      "cost": 40,
+      "facilityType": "forty",
+      "copay": 39
+    },
+    {
+      "id": 30,
+      "cptCodeId": 2,
+      "cost": 39,
+      "facilityType": "thirty nine",
+      "copay": 38
+    },
+    {
+      "id": 31,
+      "cptCodeId": 4,
+      "cost": 35,
+      "facilityType": "thirty five",
+      "copay": 34
     }
   ]
 }

@@ -1,10 +1,5 @@
 import React from 'react';
-
-const calculateAverageCost = (data) => {
-  const totalCost = data.reduce((sum, item) => sum + item.cost, 0);
-  const averageCost = totalCost / data.length;
-  return averageCost;
-};
+import {calculateAverageCost} from '../utils/';
 
 const AverageCost = ({ cost, selectedCptCode }) => {
   return (
